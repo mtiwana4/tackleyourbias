@@ -87,7 +87,7 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <h1> ‎</h1>
-          <a href="faq.html">
+          <a href="about.html">
             <img class="img-fluid" src="img/learn.jpg" alt="">
           </a>
           <h1> ‎</h1>
