@@ -61,7 +61,7 @@
           <div class="site-heading">
             <h1> ‎</h1>
             <h1> ‎</h1>
-            <h1>Bias Breaker</h1>
+            <h1>Tackle Your Bias</h1>
             <span class="subheading">Stating facts in a bias world.</span>
             <h1>‎</h1>
             <h1> ‎</h1>
@@ -103,7 +103,7 @@
         <div class="col-lg-8 col-md-10 mx-auto">
           <ul class="list-inline text-center"></ul>
           </ul>
-          <p class="copyright text-muted">Copyright &copy; Bias Breaker 2021</p>
+          <p class="copyright text-muted">Copyright &copy; Tackle Your Bias 2021</p>
         </div>
       </div>
     </div>
